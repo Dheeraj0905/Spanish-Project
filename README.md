@@ -49,7 +49,7 @@ frontend/spanish-weather-time/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mangun10/Spanish-Project.git
+   git clone https://github.com/Dheeraj0905/Spanish-Project.git
    cd Spanish-Project/frontend/spanish-weather-time
    ```
 
