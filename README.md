@@ -110,8 +110,3 @@ To add your own audio pronunciations:
 - **Web Audio API**: Audio playback
 - **OpenWeatherMap API**: Weather data
 - **WorldTimeAPI**: Time data
-
-
-## Contact
-
-Project Link: [https://github.com/Mangun10/Spanish-Project](https://github.com/Mangun10/Spanish-Project)
